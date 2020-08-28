@@ -1,9 +1,14 @@
 ## What is cloud computing?
+werqwerqwrewqerqwerqwrwq
 - on demand, self service
 - broad network access
 - resource pooling
 - rapid elasticity
 - measure service (PAYG)
+ghdghdfgh
+
+fghfdghfdghdfghfgd
+ueryuqrweoiqr ywoeiw
 - Iaas - Infrastructure as a service
 - Paas - Platform as a service
 - Saas - Software as a service
@@ -35,7 +40,7 @@ gjh gkl jfdl;g hj;ldfghfd;
     hfd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTcwNjM2OCwtOTQ3MzkwNjQ3LDkyMT
-E3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcsMTM1NzgxMTA5LC0x
-Njk2NDE5NzhdfQ==
+eyJoaXN0b3J5IjpbNzEzNzk4NjE0LC05NDczOTA2NDcsOTIxMT
+czODgyLDUwNzk3NTA4LC00Mjk5NzUxNywxMzU3ODExMDksLTE2
+OTY0MTk3OF19
 -->
