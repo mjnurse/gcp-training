@@ -5,7 +5,7 @@ werqwerqwrewqerqwerqwrwq
 - resource pooling
 - rapid elasticity
 - measure service (PAYG)
-ghdghdfgh
+ghdghdfghdfghdghdfghdghghdf
 
 fghfdghfdghdfghfgd
 ueryuqrweoiqr ywoeiw
@@ -40,7 +40,7 @@ gjh gkl jfdl;g hj;ldfghfd;
     hfd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNzk4NjE0LC05NDczOTA2NDcsOTIxMT
-czODgyLDUwNzk3NTA4LC00Mjk5NzUxNywxMzU3ODExMDksLTE2
-OTY0MTk3OF19
+eyJoaXN0b3J5IjpbLTEyNDkyNTU3ODksLTk0NzM5MDY0Nyw5Mj
+ExNzM4ODIsNTA3OTc1MDgsLTQyOTk3NTE3LDEzNTc4MTEwOSwt
+MTY5NjQxOTc4XX0=
 -->
