@@ -1,5 +1,7 @@
 # What is Cloud Computing?
+
 5 features of Cloud Computing
+
 - On demand, self service.
 - Broad network access.
 - Resource pooling.
@@ -7,14 +9,12 @@
 - Measure service (PAYG).
 
 Acronyms
+
 - Iaas - Infrastructure as a service.
 - Paas - Platform as a service.
 - Saas - Software as a service.
 
 ## Regions / Zones
-
-d
-
 
 - Zone is a deployment area (europe-west2-a).
 - Regions contain many zones.
@@ -23,7 +23,7 @@ d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODM5MzQ2NSwtOTgxMzQ4OTE0LC05ND
-czOTA2NDcsOTIxMTczODgyLDUwNzk3NTA4LC00Mjk5NzUxNywx
-MzU3ODExMDksLTE2OTY0MTk3OF19
+eyJoaXN0b3J5IjpbLTE2MTcyNTk4MjUsLTk4MTM0ODkxNCwtOT
+Q3MzkwNjQ3LDkyMTE3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcs
+MTM1NzgxMTA5LC0xNjk2NDE5NzhdfQ==
 -->
