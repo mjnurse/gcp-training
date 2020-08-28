@@ -9,10 +9,11 @@ Paas - Platform as a service
 Saas - Software as a service
 ## Regions / Zones
 - Zone is a deployment area (europe-west2-a)
-- Regions contain mabny zones
-- zone -> 
+- Regions contain many zones
+- zone -> zone < 5ms
+- Multi Region - stored in 2 locations >= 160km apart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNjI2MzQ1LC0xNjk2NDE5NzhdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY5NTU2MzEsLTE2OTY0MTk3OF19
 -->
