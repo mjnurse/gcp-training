@@ -1,11 +1,12 @@
 ## What is cloud computing?
+5 features of Cloud Computing
 - on demand, self service
 - broad network access
 - resource pooling
 - rapid elasticity
 - measure service (PAYG)
-fghfdghfdghdfghfgd
-ueryuqrweoiqr ywoeiw
+
+Acronyms
 - Iaas - Infrastructure as a service
 - Paas - Platform as a service
 - Saas - Software as a service
@@ -37,7 +38,7 @@ gjh gkl jfdl;g hj;ldfghfd;
     hfd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTIxMDU1MywtOTQ3MzkwNjQ3LDkyMT
+eyJoaXN0b3J5IjpbLTk4MTM0ODkxNCwtOTQ3MzkwNjQ3LDkyMT
 E3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcsMTM1NzgxMTA5LC0x
 Njk2NDE5NzhdfQ==
 -->
