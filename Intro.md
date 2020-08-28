@@ -28,8 +28,13 @@ Discount:
 - Committed use.
 - Preemptable machines
 - Custom VM's
+
+## Multi-Layered Security
+
+-Titan security chip
+Mach
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk2ODk1MjksLTk4MTM0ODkxNCwtOT
+eyJoaXN0b3J5IjpbLTE3NTUwMTY1ODksLTk4MTM0ODkxNCwtOT
 Q3MzkwNjQ3LDkyMTE3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcs
 MTM1NzgxMTA5LC0xNjk2NDE5NzhdfQ==
 -->
