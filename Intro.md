@@ -4,7 +4,6 @@
 - resource pooling
 - rapid elasticity
 - measure service (PAYG)
-
 - Iaas - Infrastructure as a service
 - Paas - Platform as a service
 - Saas - Software as a service
@@ -36,7 +35,7 @@ gjh gkl jfdl;g hj;ldfghfd;
     hfd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDc4MzQ0MiwtOTQ3MzkwNjQ3LDkyMT
+eyJoaXN0b3J5IjpbLTk5OTcwNjM2OCwtOTQ3MzkwNjQ3LDkyMT
 E3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcsMTM1NzgxMTA5LC0x
 Njk2NDE5NzhdfQ==
 -->
