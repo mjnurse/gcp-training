@@ -1,10 +1,10 @@
 ### What is cloud computing?
 - on demand, self service
 - broad network access
-- resource pooliong
-- rapod elastiticy
-- measure service (PAY
+- resource pooling
+- rapid elasticity
+- measure service (PAYG)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjEyODAwMCw0MzUyMTczOTVdfQ==
+eyJoaXN0b3J5IjpbODE1ODgxNTk5LDQzNTIxNzM5NV19
 -->
