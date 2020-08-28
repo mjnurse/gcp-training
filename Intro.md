@@ -21,7 +21,7 @@
 
 asasdsf akg; sd
  
-  [hello](../../hello.md)
+  [hello](hello.md)
  
  
 
@@ -36,7 +36,7 @@ gjh gkl jfdl;g hj;ldfghfd;
     hfd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODUxMDY3OSw5MjExNzM4ODIsLTk0Nz
+eyJoaXN0b3J5IjpbLTk0NzM5MDY0Nyw5MjExNzM4ODIsLTk0Nz
 M5MDY0Nyw1MDc5NzUwOCwtNDI5OTc1MTcsMTM1NzgxMTA5LC0x
 Njk2NDE5NzhdfQ==
 -->
