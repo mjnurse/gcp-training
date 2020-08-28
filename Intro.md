@@ -12,14 +12,18 @@ Acronyms
 - Saas - Software as a service.
 
 ## Regions / Zones
+
+
+
+
 - Zone is a deployment area (europe-west2-a).
 - Regions contain many zones.
 - Zone -> Zone < 5ms latency.
-- Multi Region - stored in 2 locations >= 160km apart
+- Multi Region - stored redundantly in 2 locations >= 160km apart
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg1MjgwMjMsLTk4MTM0ODkxNCwtOT
+eyJoaXN0b3J5IjpbLTIxMzAwMDYzMjksLTk4MTM0ODkxNCwtOT
 Q3MzkwNjQ3LDkyMTE3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcs
 MTM1NzgxMTA5LC0xNjk2NDE5NzhdfQ==
 -->
