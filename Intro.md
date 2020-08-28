@@ -21,7 +21,7 @@
 
 asasdsf akg; sd
  
-  [hello](/hello.md)
+  [hello](/gcp-training/hello.md)
  
  
 
@@ -36,7 +36,7 @@ gjh gkl jfdl;g hj;ldfghfd;
     hfd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMTczODgyLC05NDczOTA2NDcsNTA3OT
-c1MDgsLTQyOTk3NTE3LDEzNTc4MTEwOSwtMTY5NjQxOTc4XX0=
-
+eyJoaXN0b3J5IjpbLTEyMzA2NTg1MzIsOTIxMTczODgyLC05ND
+czOTA2NDcsNTA3OTc1MDgsLTQyOTk3NTE3LDEzNTc4MTEwOSwt
+MTY5NjQxOTc4XX0=
 -->
