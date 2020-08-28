@@ -26,21 +26,26 @@ Acronyms
 Discount:
 - Sustained use (auto when used > 25% a month).
 - Committed use.
-- Preemptable machines
-- Custom VM's
+- Preemptable machines.
+- Custom VM's.
 
 ## Multi-Layered Security
 
-- Titan security chip
-- Machine cryptographic signatures
-- Disk HW encryption
+- Titan security chip.
+- Machine cryptographic signatures.
+- Disk HW encryption.
 - Google Front End - check for correct certificates etc.
 
 ## Billing
 
-- Bugets and alerts
+- Budgets and alerts
+- Billing exports
+- Reports
+- Quotas
+	- Rate - eg 1,000 calls per second
+	- Allocation eg < 5 networks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzQ5Mjc3MiwtOTgxMzQ4OTE0LC05ND
-czOTA2NDcsOTIxMTczODgyLDUwNzk3NTA4LC00Mjk5NzUxNywx
-MzU3ODExMDksLTE2OTY0MTk3OF19
+eyJoaXN0b3J5IjpbLTEyNTgxMzQyMjcsLTk4MTM0ODkxNCwtOT
+Q3MzkwNjQ3LDkyMTE3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcs
+MTM1NzgxMTA5LC0xNjk2NDE5NzhdfQ==
 -->
