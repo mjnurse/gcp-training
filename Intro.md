@@ -44,8 +44,9 @@ Discount:
 - Quotas
 	- Rate - eg 1,000 calls per second
 	- Allocation eg < 5 networks
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgxMzQyMjcsLTk4MTM0ODkxNCwtOT
-Q3MzkwNjQ3LDkyMTE3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcs
-MTM1NzgxMTA5LC0xNjk2NDE5NzhdfQ==
+eyJoaXN0b3J5IjpbLTE0NzU5NjI2MSwtOTgxMzQ4OTE0LC05ND
+czOTA2NDcsOTIxMTczODgyLDUwNzk3NTA4LC00Mjk5NzUxNywx
+MzU3ODExMDksLTE2OTY0MTk3OF19
 -->
