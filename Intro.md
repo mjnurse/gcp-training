@@ -1,4 +1,7 @@
-# What is Cloud Computing?
+# GCP Training
+
+
+## What is Cloud Computing?
 
 5 features of Cloud Computing
 
@@ -46,7 +49,7 @@ Discount:
 	- Allocation eg < 5 networks
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU5NjI2MSwtOTgxMzQ4OTE0LC05ND
+eyJoaXN0b3J5IjpbMTMwMjc5OTMwOSwtOTgxMzQ4OTE0LC05ND
 czOTA2NDcsOTIxMTczODgyLDUwNzk3NTA4LC00Mjk5NzUxNywx
 MzU3ODExMDksLTE2OTY0MTk3OF19
 -->
