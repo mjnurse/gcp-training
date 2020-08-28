@@ -4,9 +4,11 @@
 - resource pooling
 - rapid elasticity
 - measure service (PAYG)
+
 Iaas - Infrastructure as a service
 Paas - Platform as a service
 Saas - Software as a service
+
 ## Regions / Zones
 - Zone is a deployment area (europe-west2-a)
 - Regions contain many zones
@@ -15,5 +17,5 @@ Saas - Software as a service
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY5NTU2MzEsLTE2OTY0MTk3OF19
+eyJoaXN0b3J5IjpbMTM1NzgxMTA5LC0xNjk2NDE5NzhdfQ==
 -->
