@@ -1,5 +1,5 @@
 ## What is cloud computing?
-##### 5 features of Cloud Computing
+5 features of Cloud Computing
 - on demand, self service
 - broad network access
 - resource pooling
@@ -38,7 +38,7 @@ gjh gkl jfdl;g hj;ldfghfd;
     hfd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc2MjMwMjMsLTk0NzM5MDY0Nyw5Mj
-ExNzM4ODIsNTA3OTc1MDgsLTQyOTk3NTE3LDEzNTc4MTEwOSwt
-MTY5NjQxOTc4XX0=
+eyJoaXN0b3J5IjpbLTk4MTM0ODkxNCwtOTQ3MzkwNjQ3LDkyMT
+E3Mzg4Miw1MDc5NzUwOCwtNDI5OTc1MTcsMTM1NzgxMTA5LC0x
+Njk2NDE5NzhdfQ==
 -->
