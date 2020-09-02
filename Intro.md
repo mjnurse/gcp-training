@@ -64,9 +64,12 @@ Discount:
 
 ### Storage Classes
 
--	**Multi-Regional** - Most frequent access - avail SLA 99.95% - Content storage and delivery
--	**Regional** - Frequent access in a region - avail SLA 99.90% - In reion analytics / transcoding
+-	**Multi-Regional** - Most frequent access - avail SLA 99.95% - Content storage and delivery.
+-	**Regional** - Frequent access in a region - avail SLA 99.90% - In region analytics / transcoding.
+-	**Nearline** - Access < once a month - avail SLA 99.00% - backups, long tail content.
+-	**Coldline** - Access < once a year - avail 99.00% - archiving, DR.
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1NjQyMjcsMTg3MzAyODMxOSwtNz
-k0MDY1NjcxXX0=
+eyJoaXN0b3J5IjpbOTcwOTg2Mjk3LDE4NzMwMjgzMTksLTc5ND
+A2NTY3MV19
 -->
