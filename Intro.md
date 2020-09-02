@@ -66,14 +66,16 @@ Discount:
 
 -	**Multi-Regional** - Most frequent access - avail SLA 99.95% - Content storage and delivery.
 	-	Two locations > 160km.
-	-	Cost per GB per month.
+	-	Main cost per GB per month.
 -	**Regional** - Frequent access in a region - avail SLA 99.90% - In region analytics / transcoding.
 -	**Nearline** - Access avg. < once a month - avail SLA 99.00% - backups, long tail content.
--	**Coldline** - Access avg. < once a year - avail 99.00% - archiving, DR.
-	-	Cost per GB transferred.
+-	**Coldline** - Access avg. < once a year - avail SLA 99.00% - archiving, DR.
+	-	Main cost per GB transferred.
+	-	Min 90 days storage.
+	-	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MDYzOTU5LDE4NzMwMjgzMTksLTc5ND
-A2NTY3MV19
+eyJoaXN0b3J5IjpbLTE2MjkyNzU2OTQsMTg3MzAyODMxOSwtNz
+k0MDY1NjcxXX0=
 -->
