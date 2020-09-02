@@ -65,15 +65,15 @@ Discount:
 ### Storage Classes
 
 -	**Multi-Regional** - Most frequent access - avail SLA 99.95% - Content storage and delivery.
-	-	two locations > 
+	-	Two locations > 160km.
+	-	Cost per GB per month.
 -	**Regional** - Frequent access in a region - avail SLA 99.90% - In region analytics / transcoding.
--	**Nearline** - Access < once a month - avail SLA 99.00% - backups, long tail content.
--	**Coldline** - Access < once a year - avail 99.00% - archiving, DR.
+-	**Nearline** - Access avg. < once a month - avail SLA 99.00% - backups, long tail content.
+-	**Coldline** - Access avg. < once a year - avail 99.00% - archiving, DR.
+	-	Cost per GB transferred.
 
-Multi-regional cost per GB per month.
-...
-Coldline cost per GB transferred.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzU4NjgxNywxODczMDI4MzE5LC03OT
-QwNjU2NzFdfQ==
+eyJoaXN0b3J5IjpbNTU4MDYzOTU5LDE4NzMwMjgzMTksLTc5ND
+A2NTY3MV19
 -->
