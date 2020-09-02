@@ -47,7 +47,12 @@ Discount:
 
 ## Storage Options
 
-### Cloud 
+### Cloud Storage (GCS)
+
+Binary large object storage.
+No capacity management.
+Access via unique key (eg URL).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDIxMTE1LC03OTQwNjU2NzFdfQ==
+eyJoaXN0b3J5IjpbLTczNDUwNzIwNCwtNzk0MDY1NjcxXX0=
 -->
