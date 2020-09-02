@@ -24,6 +24,7 @@ Acronyms
 -	Multi Region - stored redundantly in 2 locations &gt;= 160km apart
 
 ## Billing - Sub Hour Increments
+
 Discount:
 
 -	Sustained use (auto when used &gt; 25% a month).
@@ -48,10 +49,10 @@ Discount:
 
 ## Storage Options
 
--	Cloud Storage (<a href="GCS">GCS</a>)
+-	Cloud Storage
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTAxMjU5Niw1MTM4Mzk5ODQsLTc3Nj
+eyJoaXN0b3J5IjpbMTk0MTkyODUyNiw1MTM4Mzk5ODQsLTc3Nj
 kxMzAwM119
 -->
