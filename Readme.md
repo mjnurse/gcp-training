@@ -1,5 +1,6 @@
 #  GCP Training
 
+-	[Introduction](intro.md)
 
 -	Compute Engine - [GCE](GCE.md)
 
@@ -7,6 +8,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzM2NjExOCwtMTIwMTU2MTEyMSwxMT
+eyJoaXN0b3J5IjpbLTgzOTk1NTIxNywtMTIwMTU2MTEyMSwxMT
 cwMjk3NzA0XX0=
 -->
