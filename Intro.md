@@ -56,8 +56,12 @@ Discount:
 -	Immutable - never edit always replace with new.
 -	Organised by buckets.
 	-	Globally unique name.
-	-	Storage C
+	-	Storage Class.
+	-	Location (region / multi region)
+	-	IAM policies or Access Control Lists
+	-	Object versioning setting
+	-	Object lifecycle management rules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODc0NzM4LDE4NzMwMjgzMTksLTc5ND
-A2NTY3MV19
+eyJoaXN0b3J5IjpbMTY5MzEyNzc2MywxODczMDI4MzE5LC03OT
+QwNjU2NzFdfQ==
 -->
