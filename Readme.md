@@ -2,12 +2,12 @@
 
 -	[Introduction](intro.md)
 
--	Compute Engine - [GCE](GCE.md)
+-	[Compute Engine - GCE](GCE.md)
 
--	Cloud Storage - [GCS](GCS.md)
+-	[Cloud Storage - GCS](GCS.md)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTk1NTIxNywtMTIwMTU2MTEyMSwxMT
+eyJoaXN0b3J5IjpbMTA5MDE1Mjc4MywtMTIwMTU2MTEyMSwxMT
 cwMjk3NzA0XX0=
 -->
