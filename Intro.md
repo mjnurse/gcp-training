@@ -33,28 +33,17 @@ Discount:
 ##  Multi-Layered Security
 
 - Titan security chip.
-
 - Machine cryptographic signatures.
-
 - Disk HW encryption.
-
 - Google Front End - check for correct certificates etc.
 
 ##  Billing
 
 - Budgets and alerts
-
 - Billing exports
-
 - Reports
-
 - Quotas
-
-[](https://github.com/mjnurse/gcp-training/commit/f30baad5e7a48e2c6ec2f4afb064e3535102cce1?branch=f30baad5e7a48e2c6ec2f4afb064e3535102cce1&diff=unified#diff-ad313508e3b44a067229577553308d3b "Expand All")
-
-@@ -46,7 +49,7 @@
-
 - Allocation eg < 5 networks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODI5MDg3MSwtNzk0MDY1NjcxXX0=
+eyJoaXN0b3J5IjpbLTU1ODA0NzE1NCwtNzk0MDY1NjcxXX0=
 -->
