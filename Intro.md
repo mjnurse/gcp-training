@@ -74,15 +74,16 @@ Discount:
 	-	Main cost per GB transferred.
 	-	Min 90 days storage.
 
-Integrated with
--	Import / export Big Query
--	App engine - obj' storage, logs and backups
--	Compute Engine - 
+### Integrated with
+-	**Big Query** - import and export tables.
+-	**App engine** - obj' storage, logs and backups.
+-	**Compute Engine** - startup scripts, images and general objects.
+-	**Cloud SQL** - import and export tables.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxODU4OTg0LDE4NzMwMjgzMTksLTc5ND
-A2NTY3MV19
+eyJoaXN0b3J5IjpbLTE1NzQ0OTU0NDMsMTg3MzAyODMxOSwtNz
+k0MDY1NjcxXX0=
 -->
