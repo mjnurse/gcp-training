@@ -66,7 +66,7 @@ Discount:
 
 -	**Multi-Regional** - Most frequent access - avail SLA 99.95% - Content storage and delivery.
 	-	Two locations > 160km.
-	-	Main cost per GB per month.
+	-	Main cost per GB per month. 
 -	**Regional** - Frequent access in a region - avail SLA 99.90% - In region analytics / transcoding.
 -	**Nearline** - Access avg. < once a month - avail SLA 99.00% - backups, long tail content.
 	-	Cost includes per GB transferred.
@@ -74,10 +74,15 @@ Discount:
 	-	Main cost per GB transferred.
 	-	Min 90 days storage.
 
+Integrated with
+-	Import / export Big Query
+-	App engine - obj' storage, logs and backups
+-	Compute Engine - 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc5MTAxMzAsMTg3MzAyODMxOSwtNz
-k0MDY1NjcxXX0=
+eyJoaXN0b3J5IjpbOTAxODU4OTg0LDE4NzMwMjgzMTksLTc5ND
+A2NTY3MV19
 -->
