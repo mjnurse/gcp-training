@@ -29,13 +29,21 @@
 <p>3 types of Role:</p>
 <ul>
 <li>
-<p>Primitive</p>
+<p><strong>Primitive</strong> (viewer, editor, owner)</p>
+<ul>
+<li>Affect all resources in a project.</li>
+</ul>
 </li>
 <li>
-<p>Predefined</p>
+<p><strong>Predefined</strong></p>
 </li>
 <li>
-<p>Customer</p>
+<p><strong>Customer</strong></p>
+<ul>
+<li>Cannot assign these at a folder level (only Project or Org’).</li>
+</ul>
 </li>
 </ul>
+<h2 id="service-accounts">Service Accounts</h2>
+<p>Service accounts are both an identity and a resource</p>
 
