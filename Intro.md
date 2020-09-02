@@ -69,13 +69,15 @@ Discount:
 	-	Main cost per GB per month.
 -	**Regional** - Frequent access in a region - avail SLA 99.90% - In region analytics / transcoding.
 -	**Nearline** - Access avg. < once a month - avail SLA 99.00% - backups, long tail content.
+	-	Cost includes per GB transferred.
 -	**Coldline** - Access avg. < once a year - avail SLA 99.00% - archiving, DR.
 	-	Main cost per GB transferred.
 	-	Min 90 days storage.
-	-	
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkyNzU2OTQsMTg3MzAyODMxOSwtNz
+eyJoaXN0b3J5IjpbLTE0Mjc5MTAxMzAsMTg3MzAyODMxOSwtNz
 k0MDY1NjcxXX0=
 -->
