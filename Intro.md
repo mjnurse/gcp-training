@@ -44,6 +44,10 @@ Discount:
 - Reports
 - Quotas
 - Allocation eg < 5 networks
+
+## Storage Options
+
+### Cloud 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODA0NzE1NCwtNzk0MDY1NjcxXX0=
+eyJoaXN0b3J5IjpbLTQ3MDIxMTE1LC03OTQwNjU2NzFdfQ==
 -->
