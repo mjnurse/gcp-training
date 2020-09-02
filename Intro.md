@@ -60,8 +60,11 @@ Discount:
 	-	Location (region / multi region).
 	-	IAM policies or ACLs (Access Control Lists).
 	-	Object versioning setting.
-	-	Object lifecycle management rules (eg delete objs old than 365 days
+	-	Object lifecycle management rules (*eg delete obj's older than 365 days, only keep 3 versions*)
+
+### Storage Classes
+**Multi-Regional** m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzQyMzQ0OSwxODczMDI4MzE5LC03OT
-QwNjU2NzFdfQ==
+eyJoaXN0b3J5IjpbLTIxMTg0Mzk3MDUsMTg3MzAyODMxOSwtNz
+k0MDY1NjcxXX0=
 -->
