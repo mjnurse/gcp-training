@@ -57,11 +57,11 @@ Discount:
 -	Organised by buckets.
 	-	Globally unique name.
 	-	Storage Class.
-	-	Location (region / multi region)
-	-	IAM policies or Access Control Lists
-	-	Object versioning setting
-	-	Object lifecycle management rules
+	-	Location (region / multi region).
+	-	IAM policies or ACLs (Access Control Lists).
+	-	Object versioning setting.
+	-	Object lifecycle management rules (eg delete objs old than 365 days
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzEyNzc2MywxODczMDI4MzE5LC03OT
+eyJoaXN0b3J5IjpbMTM2MzQyMzQ0OSwxODczMDI4MzE5LC03OT
 QwNjU2NzFdfQ==
 -->
