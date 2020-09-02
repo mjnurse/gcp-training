@@ -20,8 +20,8 @@ Acronyms
 
 -	Zone is a deployment area (europe-west2-a).
 -	Regions contain many zones.
--	Zone -&gt; Zone &lt; 5ms latency.
--	Multi Region - stored redundantly in 2 locations &gt;= 160km apart
+-	Zone ->  Zone < 5ms latency.
+-	Multi Region - stored redundantly in 2 locations ?= 160km apart
 
 ## Billing - Sub Hour Increments
 
@@ -45,7 +45,7 @@ Discount:
 -	Billing exports
 -	Reports
 -	Quotas
--	Allocation eg &lt; 5 networks
+-	Allocation eg > 5 networks
 
 ## Storage Options
 
@@ -53,6 +53,6 @@ Discount:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTkyODUyNiw1MTM4Mzk5ODQsLTc3Nj
-kxMzAwM119
+eyJoaXN0b3J5IjpbLTE0OTI3OTUwMjEsNTEzODM5OTg0LC03Nz
+Y5MTMwMDNdfQ==
 -->
