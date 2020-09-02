@@ -49,12 +49,13 @@ Discount:
 
 ### Cloud Storage (GCS)
 
-Binary large object storage.
-No capacity management.
-Access via unique key (eg URL).
-Not a file system - object can be call files.   Do not use as a file system.
-Immutable - never edit always replace with new.
-Organised buy buckets
+-	Binary large object storage.
+-	No capacity management.
+-	Access via unique key (eg URL).
+-	Not a file system - object can be call files.   Do not use as a file system.
+-	Immutable - never edit always replace with new.
+-	Organised by buckets.
+	-	Globally unique name.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDAwOTMsLTc5NDA2NTY3MV19
+eyJoaXN0b3J5IjpbMTg3MzAyODMxOSwtNzk0MDY1NjcxXX0=
 -->
