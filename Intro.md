@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="gcp-training">GCP Training</h1>
 <h2 id="what-is-cloud-computing">What is Cloud Computing?</h2>
 <p>5 features of Cloud Computing</p>
@@ -54,3 +49,6 @@
 </li>
 </ul>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc5NDA2NTY3MV19
+-->
