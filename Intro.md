@@ -47,10 +47,10 @@ Discount:
 
 ## Storage Options
 
--	Cloud Storage ([](GCS))
+-	Cloud Storage ([GCS](GCS))
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzEzNzk5OSwtMTU3NDQ5NTQ0MywxOD
+eyJoaXN0b3J5IjpbMTE1NTMyODU3MiwtMTU3NDQ5NTQ0MywxOD
 czMDI4MzE5LC03OTQwNjU2NzFdfQ==
 -->
