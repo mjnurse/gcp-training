@@ -3,47 +3,47 @@
 ##  What is Cloud Computing?
 
 5 features of Cloud Computing
-- On demand, self service.
-- Broad network access.
-- Resource pooling.
-- Rapid elasticity.
-- Measure service (PAYG).
+-	On demand, self service.
+-	Broad network access.
+-	Resource pooling.
+-	Rapid elasticity.
+-	Measure service (PAYG).
 
 Acronyms
-- Iaas - Infrastructure as a service.
-- Paas - Platform as a service.
-- Saas - Software as a service.
+-	Iaas - Infrastructure as a service.
+-	Paas - Platform as a service.
+-	Saas - Software as a service.
 
 ##  Regions / Zones
 
-- Zone is a deployment area (europe-west2-a).
-- Regions contain many zones.
-- Zone -> Zone < 5ms latency.
-- Multi Region - stored redundantly in 2 locations >= 160km apart
+-	Zone is a deployment area (europe-west2-a).
+-	Regions contain many zones.
+-	Zone -> Zone < 5ms latency.
+-	Multi Region - stored redundantly in 2 locations >= 160km apart
 
 ##  Billing - Sub Hour Increments
 
 Discount:
 
-- Sustained use (auto when used > 25% a month).
-- Committed use.
-- Preemptable machines.
-- Custom VM's.
+-	Sustained use (auto when used > 25% a month).
+-	Committed use.
+-	Preemptable machines.
+-	Custom VM's.
 
 ##  Multi-Layered Security
 
-- Titan security chip.
-- Machine cryptographic signatures.
-- Disk HW encryption.
-- Google Front End - check for correct certificates etc.
+-	Titan security chip.
+-	Machine cryptographic signatures.
+-	Disk HW encryption.
+-	Google Front End - check for correct certificates etc.
 
 ##  Billing
 
-- Budgets and alerts
-- Billing exports
-- Reports
-- Quotas
-- Allocation eg < 5 networks
+-	Budgets and alerts
+-	Billing exports
+-	Reports
+-	Quotas
+-	Allocation eg < 5 networks
 
 ## Storage Options
 
@@ -56,6 +56,8 @@ Discount:
 -	Immutable - never edit always replace with new.
 -	Organised by buckets.
 	-	Globally unique name.
+	-	Storage C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzAyODMxOSwtNzk0MDY1NjcxXX0=
+eyJoaXN0b3J5IjpbMTM1ODc0NzM4LDE4NzMwMjgzMTksLTc5ND
+A2NTY3MV19
 -->
