@@ -63,8 +63,10 @@ Discount:
 	-	Object lifecycle management rules (*eg delete obj's older than 365 days, only keep 3 versions*)
 
 ### Storage Classes
-**Multi-Regional** m
+
+-	**Multi-Regional** - Most frequent access - avail SLA 99.95% - Content storage and delivery
+-	**Regional** - Frequent access in a region - avail SLA 99.90% - In reion analytics / transcoding
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg0Mzk3MDUsMTg3MzAyODMxOSwtNz
+eyJoaXN0b3J5IjpbLTE0MDg1NjQyMjcsMTg3MzAyODMxOSwtNz
 k0MDY1NjcxXX0=
 -->
