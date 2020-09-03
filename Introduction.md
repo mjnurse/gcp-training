@@ -50,9 +50,10 @@ Discount:
 ## Storage Options
 
 -	Cloud Storage
+-	Big Query
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI3OTUwMjEsNTEzODM5OTg0LC03Nz
-Y5MTMwMDNdfQ==
+eyJoaXN0b3J5IjpbOTY1ODI3OTAyLC0xNDkyNzk1MDIxLDUxMz
+gzOTk4NCwtNzc2OTEzMDAzXX0=
 -->
