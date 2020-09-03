@@ -44,8 +44,9 @@ Discount:
 -	Budgets and alerts
 -	Billing exports
 -	Reports
--	Quotas
--	Allocation eg > 5 networks
+-	Quotas:
+	-	Allocation eg > 5 networks
+	-	
 
 ## Storage Options
 
@@ -54,6 +55,6 @@ Discount:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1ODI3OTAyLC0xNDkyNzk1MDIxLDUxMz
-gzOTk4NCwtNzc2OTEzMDAzXX0=
+eyJoaXN0b3J5IjpbOTIyOTcxMTU5LDk2NTgyNzkwMiwtMTQ5Mj
+c5NTAyMSw1MTM4Mzk5ODQsLTc3NjkxMzAwM119
 -->
