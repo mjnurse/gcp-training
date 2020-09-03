@@ -1,11 +1,15 @@
-#  GCP Training
 
--	[Introduction](Introduction.md)
+[Cloud Bigtable](Cloud-Bigtable.md)
 
--	[Cloud Storage - GCS](GCS.md)
+[Cloud Storage GCS](Cloud-Storage-GCS.md)
 
+[Compute Engine GCE](Compute-Engine-GCE.md)
 
-<!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstOTgwMzEzMDYzXX0=
--->
+[Identity Access Management IAM](Identity-Access-Management-IAM.md)
+
+[Introduction](Introduction.md)
+
+[Readme](Readme.md)
+
+[Virtual Private Cloud VPC](Virtual-Private-Cloud-VPC.md)
+

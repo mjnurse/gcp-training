@@ -1,0 +1,7 @@
+echo "" > Readme.md
+for f in *.md; do
+	a="${f//-/ }"
+	b=${a/.md/}
+	echo "[$b]($f)" >> readme.md
+   echo >> readme.md
+done
